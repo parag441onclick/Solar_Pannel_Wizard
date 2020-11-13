@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "question": "What kind of property",
+      "option": {
+        "0": "Commercial",
+        "1": "Private"
+      },
+      "type": "property",
+      "id": 1
+    },
+    {
+      "question": "What is your zip code",
+      "type": "zip code",
+      "id": 2
+    },
+    {
+      "question": "What are you",
+      "option": {
+        "0": "Proparty Owner",
+        "1": "Tenant"
+      },
+      "type": "owner",
+      "id": 3
+    },
+    {
+      "question": "What is your electric bill per a month",
+      "option": {
+        "0": "0-200",
+        "1": "200-400",
+        "2": "400 or more"
+      },
+      "type": "electric_bill",
+      "id": 4
+    },
+    {
+      "question": "Area of ​​your roof",
+      "option": {
+        "0": "20 sq",
+        "1": "20-49 sq",
+        "2": "50-200 sq",
+        "3": "200-500 sq",
+        "4": "more then 500 sq"
+      },
+      "type": "roof",
+      "id": 5
+    },
+    {
+      "question": "Who is you current utility provider",
+      "option": {
+        "0": "option1",
+        "1": "option2",
+        "2": "option3",
+        "3": "option4",
+        "4": "option5"
+      },
+      "type": "provider",
+      "id": 6
+    },
+    {
+      "question": "What is your address",
+      "type": "address",
+      "id": 7
+    },
+    {
+      "question": "What is your email id",
+      "type": "email",
+      "id": 8
+    },
+    {
+      "question": "What is your name",
+      "field": {
+        "0": {
+          "label": "Firstname",
+          "type": "text",
+          "name": "firstname",
+          "placeholder": "Enter first name",
+          "id": 1
+        },
+        "1": {
+          "label": "Lastname",
+          "type": "text",
+          "name": "lastname",
+          "placeholder": "Enter last name",
+          "id": 2
+        }
+      },
+      "type": "name",
+      "id": 9
+    },
+    {
+      "question": "What is your phone number",
+      "field": {
+        "0": {
+          "label": "Phone No",
+          "type": "text",
+          "name": "phoneNo",
+          "placeholder": "Enter your Phone Number",
+          "id": 1
+        }
+      },
+      "type": "phoneNo",
+      "id": 10
+    }
+  ],
+  "q1": {
+    "question": "What kind of property",
+    "option": {
+      "0": "Commercial",
+      "1": "Private"
+    },
+    "answer": null,
+    "type": "property",
+    "id": 1
+  },
+  "q2": {
+    "question": "What is your zip code",
+    "answer": null,
+    "type": "zip code",
+    "id": 2
+  },
+  "q3": {
+    "question": "What are you",
+    "option": {
+      "0": "Proparty Owner",
+      "1": "Tenant"
+    },
+    "answer": null,
+    "type": "owner",
+    "id": 3
+  },
+  "q4": {
+    "question": "What is your electric bill per a month",
+    "option": {
+      "0": "0-200",
+      "1": "200-400",
+      "2": "400 or more"
+    },
+    "answer": null,
+    "type": "electric_bill",
+    "id": 4
+  },
+  "q5": {
+    "question": "Area of ​​your roof",
+    "option": {
+      "0": "20 sq",
+      "1": "20-49 sq",
+      "2": "50-200 sq",
+      "3": "200-500 sq",
+      "4": "more then 500 sq"
+    },
+    "answer": null,
+    "type": "roof",
+    "id": 5
+  },
+  "q6": {
+    "question": "Who is you current utility provider",
+    "option": {
+      "0": "option1",
+      "1": "option2",
+      "2": "option3",
+      "3": "option4",
+      "4": "option5"
+    },
+    "answer": null,
+    "type": "provider",
+    "id": 6
+  },
+  "q7": {
+    "question": "What is your address",
+    "answer": null,
+    "type": "address",
+    "id": 7
+  },
+  "q8": {
+    "question": "What is your email id",
+    "answer": null,
+    "type": "email",
+    "id": 8
+  },
+  "q9": {
+    "question": "What is your name",
+    "field": {
+      "0": {
+        "label": "Firstname",
+        "type": "text",
+        "name": "firstname",
+        "placeholder": "Enter first name",
+        "id": 1
+      },
+      "1": {
+        "label": "Lastname",
+        "type": "text",
+        "name": "lastname",
+        "placeholder": "Enter last name",
+        "id": 2
+      }
+    },
+    "answer": null,
+    "type": "name",
+    "id": 9
+  },
+  "q10": {
+    "question": "What is your phone number",
+    "field": {
+      "0": {
+        "label": "Phone No",
+        "type": "text",
+        "name": "phoneNo",
+        "placeholder": "Enter your Phone Number",
+        "id": 1
+      }
+    },
+    "answer": null,
+    "type": "phoneNo",
+    "id": 10
+  }
+}
